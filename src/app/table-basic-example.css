@@ -1,0 +1,8 @@
+.card_header{
+    background-color: rgb(10, 0, 29);
+}
+
+.color_transparent{
+    background-color: transparent !important;
+}
+table{width: 100%;}
