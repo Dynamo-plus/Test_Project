@@ -1,8 +1,17 @@
+.container{
+    width: 95%;
+    margin: 0 auto;
+}   
+
+.color-accent{
+    color: limegreen;
+}
 .card_header{
-    background-color: rgb(10, 0, 29);
+    background-color: hsl(261, 100%, 6%);
 }
 
 .color_transparent{
     background-color: transparent !important;
 }
+
 table{width: 100%;}
